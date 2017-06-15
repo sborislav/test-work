@@ -1,5 +1,5 @@
 {
-    "name": "newca/.checkout",
+    "name": "symfony/test",
     "license": "proprietary",
     "type": "project",
     "autoload": {
